@@ -7,7 +7,7 @@ REPO_LIBNSL="https://github.com/thkukuk/libnsl.git"
 REPO_LIBUV="https://github.com/libuv/libuv.git"
 REPO_LIBLZ4="https://github.com/lz4/lz4.git"
 REPO_SQLITE="https://github.com/sqlite/sqlite.git"
-REPO_DQLITE="https://github.com/cole-miller/dqlite.git"
+REPO_DQLITE="https://github.com/canonical/dqlite.git"
 
 ## Component versions
 TAG_MUSL="v1.2.3"
