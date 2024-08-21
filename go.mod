@@ -80,6 +80,4 @@ require (
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
 
-replace (
-	github.com/canonical/go-dqlite => github.com/cole-miller/go-dqlite stmt-fixes
-)
+replace github.com/canonical/go-dqlite => github.com/cole-miller/go-dqlite v1.18.1-0.20240819195514-726cf8c1f62d
