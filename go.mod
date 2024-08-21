@@ -81,5 +81,5 @@ require (
 )
 
 replace (
-	github.com/canonical/go-dqlite => github.com/cole-miller/go-dqlite master
+	github.com/canonical/go-dqlite => github.com/cole-miller/go-dqlite stmt-fixes
 )
