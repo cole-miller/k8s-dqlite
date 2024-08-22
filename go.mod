@@ -17,4 +17,4 @@ require (
 
 replace github.com/rancher/kine => github.com/canonical/kine v0.4.1-k8s-dqlite.10
 
-replace github.com/canonical/go-dqlite => github.com/cole-miller/go-dqlite v1.18.1-0.20240822015551-f45ecc97a1c6
+replace github.com/canonical/go-dqlite => github.com/cole-miller/go-dqlite v1.18.1-0.20240822015819-269157d3e0ba
