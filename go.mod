@@ -15,6 +15,6 @@ require (
 	k8s.io/component-base v0.18.0
 )
 
-replace github.com/rancher/kine => github.com/cole-miller/kine v0.0.0-20240822025330-ef664417a593
+replace github.com/rancher/kine => github.com/cole-miller/kine v0.0.0-20240822032222-851cfdeb7ef1
 
 replace github.com/canonical/go-dqlite => github.com/cole-miller/go-dqlite v1.18.1-0.20240822021223-297ca910095b
